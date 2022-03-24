@@ -1,38 +1,38 @@
 [
     {
         "image": "assets/img/projects/project1.jpg",
-        "title": "My Title 01",
-        "description": "My Description 01",
+        "title": "파이썬",
+        "description": "파이썬 코딩 study 내용",
         "link": "#"
     },
     {
         "image": "assets/img/projects/project2.jpg",
-        "title": "My Title 02",
-        "description": "My Description 02",
+        "title": "AI-딥러닝-머신러닝",
+        "description": "STUDY&구현 기록",
         "link": "#"
     },
     {
         "image": "assets/img/projects/project3.jpg",
-        "title": "My Title 03",
-        "description": "My Description 03",
+        "title": "수학-프로그래밍 접목",
+        "description": "전공을 살린 수학-프로그래밍 접목 고민",
         "link": "#"
     },
     {
         "image": "assets/img/projects/project4.jpg",
-        "title": "My Title 04",
-        "description": "My Description 04",
+        "title": "프로그래밍 최신 경향",
+        "description": "알게된 정보들 기록",
         "link": "#"
     },
     {
         "image": "assets/img/projects/project5.jpg",
-        "title": "My Title 05",
-        "description": "My Description 05",
+        "title": "풀스택 개발",
+        "description": "풀스택 경험 기록용",
         "link": "#"
     },
     {
         "image": "assets/img/projects/project6.jpg",
-        "title": "My Title 06",
-        "description": "My Description 06",
+        "title": "웹&크롤링-스크래핑",
+        "description": "웹전반 해석, 크롤링,스크래핑study",
         "link": "#"
     }
 ]
